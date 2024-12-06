@@ -1,2 +1,3 @@
 # TicTacToe
-This repository contains code of a Tic-Tac-Toe game that runs in the terminal, written by me in C++. Thank You!
+This is a terminal-based Tic-Tac-Toe game, written in C++, using Object-Oriented Programming (OOP) concepts, showcasing a clean and easy-to-modify code.
+Thank You!
