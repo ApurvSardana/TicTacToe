@@ -82,13 +82,12 @@ class Game
         //Diagonal Check
         int rd_count = 0;
         int ld_count = 0;
-        int k = 2;
         for(int i = 0; i < 3; i++)
         {
             if(board[i][i] == ch)
                 rd_count++;
 
-            if(board[i][k--] == ch)
+            if(board[i][2-i] == ch)
                 ld_count++;
         }
 
